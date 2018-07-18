@@ -15,7 +15,7 @@ public class IfElseNumber {
 		char contin = 'y';
 		
 		//Asks and collects name.
-		System.out.println("Enter your Name?");
+		System.out.println("Enter your first name?");
 		userName = scnr.next();
 		
 		//This while statement sets up the continue question at the end.
